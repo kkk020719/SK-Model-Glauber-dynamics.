@@ -1,2 +1,4 @@
 # SK-Model-Glauber-dynamics.
-glauber dynamics on sk model
+Jax implmentation of Glauber Dynamics Simulation of the Sherrington-Kirkpatrick Model
+
+
